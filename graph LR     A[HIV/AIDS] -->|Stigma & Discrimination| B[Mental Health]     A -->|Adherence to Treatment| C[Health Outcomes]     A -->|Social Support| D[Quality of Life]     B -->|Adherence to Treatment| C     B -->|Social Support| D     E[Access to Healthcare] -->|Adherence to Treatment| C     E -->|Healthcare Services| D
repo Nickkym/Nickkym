@@ -1,0 +1,20 @@
+graph LR
+    A[HIV/AIDS] -->|Stigma & Discrimination| B[Mental Health]
+    A -->|Adherence to Treatment| C[Health Outcomes]
+    A -->|Social Support| D[Quality of Life]
+    B -->|Adherence to Treatment| C
+    B -->|Social Support| D
+    E[Access to Healthcare] -->|Adherence to Treatment| C
+    E -->|Healthcare Services| D
+- 👋 Hi, I’m @Nickkym
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Nickkym/Nickkym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
